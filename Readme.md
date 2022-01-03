@@ -1,10 +1,10 @@
-<h1>Hi 👋, i am Roman, but you can call me LaRI 😁</h1>
+<h1>Hi 👋, i'm Roman, but you can call me LaRI 😁</h1>
 
 ### Some facts about me 📑:
 
 - 👉Right now i working to became **full-stack developer**
-- 🧐 I am a **self-motivated**
-- 😍 Desire to learn new things
+- 🧐 I'm a **self-motivated**
+- 😍 Desire to **learn new things**
 - 📫 You can reach me here:
   - [**Linkedin**](https://www.linkedin.com/in/lari-dev/)
   - [**Telegramm**](https://t.me/Roman_Lagoda5991)
