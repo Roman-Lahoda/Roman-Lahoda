@@ -6,7 +6,7 @@
 - 🧐 I am a **self-motivated**
 - 😍 Desire to learn new things
 - 📫 You can reach me here: **[** [**Linkedin**](https://www.linkedin.com/in/lari-dev/),
-  [**Telegramm**](https://t.me/Roman_Lagoda5991),[**Gmail**](lagoda9515@gmail.com) **]**
+  [**Telegramm**](https://t.me/Roman_Lagoda5991), [**lagoda9515@gmail.com**](lagoda9515@gmail.com) **]**
 
 ### My stack and tools
 
