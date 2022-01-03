@@ -2,11 +2,11 @@
 
 ### Some facts about me 📑:
 
--👉Right now i working to became **full-stack developer**
--🧐 I am a **self-motivated**
--😍 Desire to learn new things
--📫 You can reach me here: **[** [**Linkedin**](https://www.linkedin.com/in/lari-dev/),
-[**Telegramm**](https://t.me/Roman_Lagoda5991),[**Gmail**](lagoda9515@gmail.com) **]**
+- 👉Right now i working to became **full-stack developer**
+- 🧐 I am a **self-motivated**
+- 😍 Desire to learn new things
+- 📫 You can reach me here: **[** [**Linkedin**](https://www.linkedin.com/in/lari-dev/),
+  [**Telegramm**](https://t.me/Roman_Lagoda5991),[**Gmail**](lagoda9515@gmail.com) **]**
 
 ### My stack and tools
 
@@ -40,6 +40,4 @@
 
 ### This week went something like this 👇
 
-<img height="200px" src="https://wakatime.com/share/@LaRI/88f516a9-554a-473c-b46c-865805f8725a.png"/><img height="200px" src="https://wakatime.com/share/@LaRI/3aa0cdd2-4fb7-4cab-b5bb-4f9351256df0.png"/>
-
-<!-- <img height="100px" src="https://wakatime.com/badge/user/4c94cd21-f0e2-46a4-af5b-9582e5c6b671.svg"/> -->
+<img height="300px" src="https://wakatime.com/share/@LaRI/88f516a9-554a-473c-b46c-865805f8725a.png"/><img height="300px" src="https://wakatime.com/share/@LaRI/3aa0cdd2-4fb7-4cab-b5bb-4f9351256df0.png"/>
