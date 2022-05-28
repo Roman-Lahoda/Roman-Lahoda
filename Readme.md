@@ -53,3 +53,8 @@
       src="https://www.codewars.com/users/Roman-Lahoda/badges/micro?theme=light"
       alt=""
     />
+    <img
+      src="https://wakatime.com/badge/user/4c94cd21-f0e2-46a4-af5b-9582e5c6b671.svg"
+      alt=""
+    />
+    
