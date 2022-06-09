@@ -40,9 +40,9 @@
 </p>
 
  <br/>
-
- ### This week went something like this 👇
 <!--
+ ### This week went something like this 👇
+
 <img height="300px" src="https://wakatime.com/share/@LaRI/88f516a9-554a-473c-b46c-865805f8725a.png"/> <img height="300px" src="https://wakatime.com/share/@LaRI/3aa0cdd2-4fb7-4cab-b5bb-4f9351256df0.png" alt="">
 -->
 
